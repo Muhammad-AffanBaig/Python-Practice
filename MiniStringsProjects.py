@@ -1,5 +1,5 @@
 # Project 1: String Analyzer
-sentence = input("Enter asentence: ")
+sentence = input("Enter a sentence: ")
 print("length:",len(sentence))
 print("Upper Case:",sentence.upper())
 print("Lower Case:",sentence.lower())
